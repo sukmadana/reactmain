@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "sukma",
+      "alamat": "dirumah",
+      "umur": 20,
+      "nohp": "290909292929"
+    },
+    {
+      "id": 2,
+      "nama": "dana",
+      "alamat": "dijalan",
+      "umur": 20,
+      "nohp": "290909292929"
+    },
+    {
+      "id": 3,
+      "nama": "wayan",
+      "alamat": "dilahan",
+      "umur": 20,
+      "nohp": "290909292929"
+    },
+    {
+      "id": 4,
+      "nama": "kadek",
+      "alamat": "disawah",
+      "umur": 20,
+      "nohp": "290909292929"
+    }
+  ],
+  "error": false,
+  "title": "Latihan Company"
+}
